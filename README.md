@@ -54,7 +54,7 @@
     
     i>cd C:\\xampp\htdocs\
     
-    ii>git clone https://github.com/PuneethReddyHC/online-shopping-system-with-advanced-admin-page.git
+    ii>git clone (https://github.com/RAJDEEP-2003/E-Buy.git)
     
 4. extract files in C:\\xampp\htdocs\.
 
